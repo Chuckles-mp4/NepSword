@@ -1,0 +1,45 @@
+title: Nep's Wooden Sword
+originalAuthor: You
+description: Generated on Mon, 21 Apr 2025 04:24:59 GMT
+dependencies: 
+assets:
+- name: msg/us/sys.bar
+  method: copy
+  source:
+  - name: msg/us/sys.bar
+- name: obj/W_EX010.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010.mdlx
+- name: obj/W_EX010_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_NM.mdlx
+- name: obj/W_EX010_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_TR.mdlx
+- name: obj/W_EX010_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_WI.mdlx
+- name: remastered/itempic/item-043.imd/-0.dds
+  method: copy
+  source:
+  - name: remastered/itempic/item-043.imd/-0.dds
+- name: remastered/obj/W_EX010.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010.mdlx/-0.dds
+- name: remastered/obj/W_EX010_NM.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_NM.mdlx/-0.dds
+- name: remastered/obj/W_EX010_TR.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_TR.mdlx/-0.dds
+- name: remastered/obj/W_EX010_WI.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/W_EX010_WI.mdlx/-0.dds
